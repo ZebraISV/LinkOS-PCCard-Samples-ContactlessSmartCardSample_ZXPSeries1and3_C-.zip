@@ -1,3 +1,10 @@
+**IMPORTANT PLEASE READ CAREFULLY:**
+**(UNRESTRICTED SOFTWARE)** 
+##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br/>
+<br/>
+
+
 <p float="left">
 
 <img width="432" height=”600” alt="screen shot 2018-07-10 at 11 17 37 am" src="https://user-images.githubusercontent.com/41017424/42523303-fedb133a-8432-11e8-9293-cf5a1b75e45c.png">
